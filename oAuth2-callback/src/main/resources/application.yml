@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: oauth2-callback
+server:
+  port: 8081
+
+logging:
+  level:
+    com.yuanjg:  debug
