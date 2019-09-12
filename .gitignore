@@ -1,0 +1,8 @@
+.idea/
+oAuth2-callback/oauth2-callback.iml
+oAuth2-callback/target/
+oAuth2-dependencies/oAuth2-dependencies.iml
+oAuth2-resource/oAuth2-resource.iml
+oAuth2-resource/target/
+oAuth2-server/oAuth2-server.iml
+oAuth2-server/target/
